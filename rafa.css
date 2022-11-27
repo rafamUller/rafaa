@@ -1,18 +1,20 @@
 body{
-    background-color:rgb(0, 53, 59);
+    background-color:#092b5a;
 }
 
 header{
-    background-color: rgb(33, 33, 99);
+    background-color:#78a890;
+    height: 100px;
 }
 
 .cima h1{
     color: white;
+    margin-bottom: 120px;
     text-align: center;
 }
 
 .info{
-    color:antiquewhite;
+    color:#e7d9b4;
     font-size: 22px;
 }
 
@@ -22,15 +24,166 @@ header{
 }
 
 .albuns{
-    color:rgb(0, 53, 59); ;
+    color:#092b5a;
 }
 .albuns h1{
     text-align: center;
-    color: antiquewhite;
+    color: #e7d9b4;
+
 }
 
 .albuns img{
     width: 250px;
     height: 250px;
+}
+
+.quadrado {
+    width: 450px;
+    height: 520px;
+    background: #585d5d;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+  }
+
+.music{
+    color: aliceblue;
+}
+
+/*
+    Mudar a fonte das musica    
+*/
+
+.music h2{
+    margin-top: -60px;
+    margin-left: 140px;
+}
+
+.music h4{
+    margin-top: -10px;
+    margin-left: 200px;
+    color:black
+}
+
+.music h3{
+    margin-top: 5px;
+    margin-left: 30px;
+    color:white;
+}
+
+.music h1{
+    margin-left: 20px;
+    font-size: 35px;
+}
+
+.music img{
+    width: 70px;
+    height: 70px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.nobody img{
+    width: 70px;
+    height: 70px;
+    margin-left: 20px;
+    border-radius: 10%;
+}
+
+.nobody h3{
+    margin-top: -65px;
+    margin-left: 110px;
+    color: #d1cbc0;
+}
+.nobody h4{
+    margin-top: -10px;
+    margin-left: 110px;
+    font-size: 17px;
+    color: #363430;
+}
+
+.nobody h2{
+    margin-top: -65px;
+    margin-left: 360px;
+    font-size: 23px;
+    color: black
+}
+
+.machine img{
+    width: 70px;
+    height: 70px;
+    margin-left: 20px;
+    border-radius: 10%;
+}
+
+.machine h3{
+    margin-top: -65px;
+    margin-left: 110px;
+    color: #d1cbc0;
+}
+.machine h4{
+    margin-top: -10px;
+    margin-left: 110px;
+    font-size: 17px;
+    color: #363430;
+}
+
+.machine h2{
+    margin-top: -65px;
+    margin-left: 360px;
+    font-size: 23px;
+    color: black
+}
+
+.love img{
+    width: 70px;
+    height: 70px;
+    margin-left: 20px;
+    border-radius: 10%;
+}
+
+.love h3{
+    margin-top: -65px;
+    margin-left: 110px;
+    color: #d1cbc0;
+}
+.love h4{
+    margin-top: -10px;
+    margin-left: 110px;
+    font-size: 17px;
+    color: #363430;
+}
+
+.love h2{
+    margin-top: -65px;
+    margin-left: 360px;
+    font-size: 23px;
+    color: black
+}
+
+.forever img{
+    width: 70px;
+    height: 70px;
+    margin-left: 20px;
+    border-radius: 10%;
+}
+
+.forever h3{
+    margin-top: -65px;
+    margin-left: 110px;
+    color: #d1cbc0;
+}
+.forever h4{
+    margin-top: -10px;
+    margin-left: 110px;
+    font-size: 17px;
+    color: #363430;
+}
+
+.forever h2{
+    margin-top: -65px;
+    margin-left: 360px;
+    font-size: 23px;
+    color: black
 }
 
