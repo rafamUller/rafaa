@@ -11,16 +11,26 @@ header{
     color: white;
     margin-bottom: 120px;
     text-align: center;
+    vertical-align: middle;
 }
 
-.info{
-    color:#e7d9b4;
-    font-size: 22px;
-}
+.wiki img {
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+  }
 
-.info img{
-    width: 300px;
-    height: 300px;
+.wiki{
+    font-size: 25px;
+    background-size: 20px;
+    background-color: aliceblue;
+}
+.wiki p{
+    font-size: 45px;
+    color:  aliceblue;
+
 }
 
 .albuns{
@@ -35,6 +45,7 @@ header{
 .albuns img{
     width: 250px;
     height: 250px;
+    margin-right: 120px;
 }
 
 .quadrado {
